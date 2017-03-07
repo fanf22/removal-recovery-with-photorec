@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Sorry for French comments, but code is so simple that Google Translate is your friend (and should be mine).
+
 # Auteur         : François de Mareschal <francois.demareschal@gmail.com>
 # Historique     : @17/04/2015 création
 # Fonctionnement : liste les fichiers contenus dans les sous-répertoires, en extrait les 
